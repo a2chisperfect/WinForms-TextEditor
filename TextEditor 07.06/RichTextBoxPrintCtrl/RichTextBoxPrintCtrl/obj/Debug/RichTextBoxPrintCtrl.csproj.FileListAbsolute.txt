@@ -1,0 +1,32 @@
+c:\documents\visual studio 2013\Projects\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+c:\documents\visual studio 2013\Projects\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+c:\documents\visual studio 2013\Projects\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+c:\documents\visual studio 2013\Projects\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor —l — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor —l — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor —l — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csprojResolveAssemblyReference.cache
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor —l — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor —l — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csprojResolveAssemblyReference.cache
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready — копия\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready last — копия (2)\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready last — копия (2)\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready last — копия (2)\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csprojResolveAssemblyReference.cache
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready last — копия (2)\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor  ready last — копия (2)\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 14.05\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 14.05\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 14.05\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 14.05\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 06.06\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 06.06\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\bin\Debug\RichTextBoxPrintCtrl.pdb
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 06.06\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.csprojResolveAssemblyReference.cache
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 06.06\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.dll
+C:\ШАГ 2015\платформа .Net\WinForms\DZ\TextEditor 06.06\RichTextBoxPrintCtrl\RichTextBoxPrintCtrl\obj\Debug\RichTextBoxPrintCtrl.pdb
